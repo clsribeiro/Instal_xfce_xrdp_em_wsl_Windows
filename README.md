@@ -17,5 +17,5 @@ Este repositório contém scripts para instalar e configurar o ambiente gráfico
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/clsribeiro/https---github.com-clsribeiro-Intall_XFCE_XRDP_WSL-WINDOWS.git
    cd seu_repositorio
